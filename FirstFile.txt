@@ -1,7 +1,4 @@
+
 This is first file . I am doing proof of concepts for git . 
-This is the sixth commit for vaibhav repo
+This is the sixth commit for vijay repo
 this is master branch for upstream
-this is 2nd commit in first file.txt
-this is master branch for Vijay Repo
-This is the fourth commit for vijay repo
-this is master branch for vijay repo
